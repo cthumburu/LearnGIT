@@ -11,6 +11,8 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             //This is for testing purpose only.
+
+            //This is a change in feature 1.0 branch.
         }
     }
 }
