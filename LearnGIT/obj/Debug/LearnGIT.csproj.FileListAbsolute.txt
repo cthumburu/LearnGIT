@@ -1,0 +1,5 @@
+C:\Users\cthumburu\Source\GitHub\LearnGIT\LearnGIT\LearnGIT\bin\Debug\LearnGIT.dll
+C:\Users\cthumburu\Source\GitHub\LearnGIT\LearnGIT\LearnGIT\bin\Debug\LearnGIT.pdb
+C:\Users\cthumburu\Source\GitHub\LearnGIT\LearnGIT\LearnGIT\obj\Debug\LearnGIT.csprojResolveAssemblyReference.cache
+C:\Users\cthumburu\Source\GitHub\LearnGIT\LearnGIT\LearnGIT\obj\Debug\LearnGIT.dll
+C:\Users\cthumburu\Source\GitHub\LearnGIT\LearnGIT\LearnGIT\obj\Debug\LearnGIT.pdb
